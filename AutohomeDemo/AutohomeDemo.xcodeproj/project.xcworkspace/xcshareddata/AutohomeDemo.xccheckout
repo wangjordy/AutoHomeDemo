@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B1468EC-B951-4D63-A7B1-C55B21C6DD1E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutohomeDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F8AA55E827196079F1DC742C7D1A58A7A2036B3D</key>
+		<string>https://github.com/wangjordy/AutoHomeDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutohomeDemo/AutohomeDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F8AA55E827196079F1DC742C7D1A58A7A2036B3D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangjordy/AutoHomeDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F8AA55E827196079F1DC742C7D1A58A7A2036B3D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F8AA55E827196079F1DC742C7D1A58A7A2036B3D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AutoHomeDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
